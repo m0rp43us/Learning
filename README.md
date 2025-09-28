@@ -24,4 +24,8 @@ This is a personal learning log. The code in this repository is primarily based 
 
 ---
 
-**Happy Coding!** 🚀
+
+## Folders 
+
+- Minio : [Youtube - Minio Course](https://www.youtube.com/playlist?list=PLFOIsHSSYIK37B3VtACkNksUw8_puUuAC)
+- Pydantic : [Udemy - Pydantic 2](https://www.udemy.com/course/pydantic/learn/lecture/41126032)
